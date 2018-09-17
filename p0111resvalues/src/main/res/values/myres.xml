@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tvTopText">Верхний текст</string>
+    <string name="btnTopText">Верхняя кнопка</string>
+    <string name="tvBottomText">Нижний text</string>
+    <string name="btnBottomText">Нижняя Button</string>
+    <color name="llTopColor">#339966</color>
+    <color name="llBottomColor">#336699</color>
+</resources>

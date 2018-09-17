@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">K002svetofor</string>
+    <string name="red">Красный</string>
+    <string name="yellow">Желтый</string>
+    <string name="green">Зеленый</string>
+    <color name="yellowColor">#FFFF00</color>
+    <color name="greenColor">#FF00FF00</color>
+    <color name="redColor">#f60606</color>
+</resources>

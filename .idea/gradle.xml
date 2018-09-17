@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/expresscourse" />
+            <option value="$PROJECT_DIR$/hellokitty" />
+            <option value="$PROJECT_DIR$/k001onclick" />
+            <option value="$PROJECT_DIR$/k002svetofor" />
+            <option value="$PROJECT_DIR$/k003simpleactivity" />
+            <option value="$PROJECT_DIR$/miguygyftyf" />
+            <option value="$PROJECT_DIR$/mp001sendsmstodushistik(v_1.0)" />
+            <option value="$PROJECT_DIR$/mp002sendsmstodushistik(v_1.0)" />
+            <option value="$PROJECT_DIR$/myapplication765343" />
+            <option value="$PROJECT_DIR$/p0081viewbyid2" />
+            <option value="$PROJECT_DIR$/p0091onclickbuttons" />
+            <option value="$PROJECT_DIR$/p0101listener" />
+            <option value="$PROJECT_DIR$/p0102activitylistener" />
+            <option value="$PROJECT_DIR$/p0102listener" />
+            <option value="$PROJECT_DIR$/p0103activitylistener" />
+            <option value="$PROJECT_DIR$/p0125logandmess" />
+            <option value="$PROJECT_DIR$/p0131menusimple" />
+            <option value="$PROJECT_DIR$/p0141menuadv" />
+            <option value="$PROJECT_DIR$/p0151contextmenu" />
+            <option value="$PROJECT_DIR$/p0161dynamiclayout" />
+            <option value="$PROJECT_DIR$/p0171dynamiclayout2" />
+            <option value="$PROJECT_DIR$/p0181dynamiclayout3" />
+            <option value="$PROJECT_DIR$/p0191simplecalculator" />
+            <option value="$PROJECT_DIR$/p0201simpleanimation" />
+            <option value="$PROJECT_DIR$/p0211twoactivity" />
+            <option value="$PROJECT_DIR$/p0231oneactivitystate" />
+            <option value="$PROJECT_DIR$/p0241twoactivitystate" />
+            <option value="$PROJECT_DIR$/p0261intentfilter" />
+            <option value="$PROJECT_DIR$/p0271getintentaction" />
+            <option value="$PROJECT_DIR$/p0281intentextras" />
+            <option value="$PROJECT_DIR$/p0291simpleactivityresult" />
+            <option value="$PROJECT_DIR$/p0301activityresult" />
+            <option value="$PROJECT_DIR$/p0311simpleintents" />
+            <option value="$PROJECT_DIR$/p0321simplebrowser" />
+            <option value="$PROJECT_DIR$/p0331sharedpreferences" />
+            <option value="$PROJECT_DIR$/p0341simplesqlite" />
+            <option value="$PROJECT_DIR$/p0711preferencessimple" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
